@@ -2,6 +2,11 @@
 Credits
 =======
 
+Founder
+----------------
+
+* Eduardo Peire <eduardo.peire@gmail.com>
+
 Development Lead
 ----------------
 
